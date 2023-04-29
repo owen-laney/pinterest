@@ -6,3 +6,6 @@ body > span {
   span[class*="_bd"] {
     height: 100% !important;
   }
+body {
+  margin: 0;
+}
